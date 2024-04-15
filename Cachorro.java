@@ -30,7 +30,7 @@ public class Cachorro {
 		this.raca = novaRaca;	
 	}
 	
-	public void setIdade(String novaIdade) {
+	public void setIdade(int novaIdade) {
 		this.idade = novaIdade;
 	}
 	
