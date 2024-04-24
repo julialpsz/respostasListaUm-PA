@@ -19,16 +19,16 @@ public class Triangulo {
 		return ladoC;
 	}
 	
-	public void setLadoA (double novoLadoA) {
-		this.ladoA = ladoA;
+	public void setLadoA (double novoA) {
+		this.ladoA = novoA;
 	}
 	
-	public void setLadoB(double novoLadoB) {
-		this.ladoB = ladoB;
+	public void setLadoB(double novoB) {
+		this.ladoB = novoB;
 	}
 	
-	public void setLadoC(double novoLadoC) {
-		this.ladoC = ladoC;
+	public void setLadoC(double novoC) {
+		this.ladoC = novoC;
 	}
 	
 	public double perimetroTriangulo() {
