@@ -12,16 +12,16 @@ public class Carro {
 		this.placa = p;
 	}
 	
-	public String setModelo() {
+	public String getModelo() {
 		return modelo;
 	}
-	public String setMarca() {
+	public String getMarca() {
 		return marca;
 	}
-	public int setAno() {
+	public int getAno() {
 		return ano;
 	}
-	public String setPlaca() {
+	public String getPlaca() {
 		return placa;
 	}
 	public void setModelo(String novoModelo) {
